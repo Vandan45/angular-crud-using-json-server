@@ -1,0 +1,20 @@
+table {
+  width: 100%;
+  background-color: #eae2b7;
+  margin: 0;
+}
+
+.editBtn,
+.deleteBtn {
+  margin: 0 10px;
+}
+
+.addDataHead {
+  display: flex;
+  direction: rtl;
+  background-color: #fcbf49;
+}
+
+.addDataHead button {
+  padding: 0 30px;
+}
