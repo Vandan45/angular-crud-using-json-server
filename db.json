@@ -1,0 +1,72 @@
+{
+  "cricketers": [
+    {
+      "id": "1",
+      "name": "Virat Kohli"
+    },
+    {
+      "id": "2",
+      "name": "Rohit Sharma"
+    },
+    {
+      "id": "3",
+      "name": "Rahul Dravid"
+    },
+    {
+      "id": "4",
+      "name": "Sourav Ganguly"
+    },
+    {
+      "id": "5",
+      "name": "Suresh Raina"
+    },
+    {
+      "id": "6",
+      "name": "Anil Kumble"
+    },
+    {
+      "id": "7",
+      "name": "Rishab Pant"
+    },
+    {
+      "id": "8",
+      "name": "KL Rahul"
+    },
+    {
+      "id": "9",
+      "name": "Jasprit Bumrah"
+    },
+    {
+      "id": "10",
+      "name": "Hardik Pandya"
+    },
+    {
+      "id": "11",
+      "name": "Bhuvneshwar Kumar"
+    },
+    {
+      "id": "12",
+      "name": "Mohammad Shami"
+    },
+    {
+      "id": "13",
+      "name": "Mohammad Siraj"
+    },
+    {
+      "id": "14",
+      "name": "Kuldeep Yadav"
+    },
+    {
+      "id": "15",
+      "name": "Ravindra Jadeja"
+    },
+    {
+      "id": "16",
+      "name": "Yashashvi Jaiswal"
+    },
+    {
+      "id": "17",
+      "name": "Subman Gill"
+    }
+  ]
+}
